@@ -1,3 +1,14 @@
 .nike-bg-primary{
     background-color: #FFF9F4;
 }
+
+.nike-text{
+    color: rgb(250, 128, 76);
+}
+
+.btn-nike{
+    background-color: rgb(250, 128, 76);
+    color: white;
+    border-radius: 15px;
+    padding: 10px 15px;
+}
